@@ -20,4 +20,4 @@ Você será avaliado por conseguir realizar as atividades propostas e também (t
 ## 🚌Entrega🚌
 - A entrega da atividade se dá diante da abertura do merge request e aprovação.
 - Apenas um membro da equipe deverá abrir o merge request.
-- Deve acontecer até antes do inicio da próxima aula(11/04/2024), sendo apresentado para a turma em sala de aula.
+- Deve acontecer até antes do inicio da próxima aula(25/04/2024), sendo apresentado para a turma em sala de aula.
